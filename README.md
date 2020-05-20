@@ -11,6 +11,6 @@ Understanding time is an important aspect of natural language processing (NLP), 
 ## Publications
 
 ### 2020
-* [Temporal Common Sense Acquisition with Minimal Supervision](http://cogcomp.org/page/publication_view/904)
+* [Temporal Common Sense Acquisition with Minimal Supervision](http://cogcomp.org/page/publication_view/904){:target="_blank" rel="noopener"}
 ### 2019
-* ["Going on a vacation" takes longer than "Going for a walk": A Study of Temporal Commonsense Understanding](http://cogcomp.org/page/publication_view/882)
+* ["Going on a vacation" takes longer than "Going for a walk": A Study of Temporal Commonsense Understanding](http://cogcomp.org/page/publication_view/882){:target="_blank" rel="noopener"}
