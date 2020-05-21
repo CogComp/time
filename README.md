@@ -1,4 +1,4 @@
-# Understanding time in text
+<!--- # Understanding time in text  --->
 
 ![Time](time.jpeg)
 
@@ -6,12 +6,12 @@ Understanding time is an important aspect of natural language processing (NLP), 
 
 <!--- [More...](http://cogcomp.org/page/project_view/51) --->
 
-## Code 
+# Code 
 
 * CogCompTime
 * TemProb-NAACL18
 
-## Publications
+# Publications
 
 #### 2020
 
