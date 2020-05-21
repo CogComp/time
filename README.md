@@ -25,4 +25,4 @@ Understanding time is an important aspect of natural language processing (NLP), 
 
 #### 2018
 
-* [CogCompTime: A Tool for Understanding Time in Natural Language](http://cogcomp.org/page/publication_view/884)
+* [CogCompTime: A Tool for Understanding Time in Natural Language](http://cogcomp.org/page/publication_view/844)
