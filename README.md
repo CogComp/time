@@ -1,4 +1,4 @@
-# ![CCG](CCGs.png) Cognitive Computation Group
+# ![CCG](CCGs.png) [Cognitive Computation Group](http://cogcomp.org)
 
 <!--- ![Time](time.jpeg) --->
 
