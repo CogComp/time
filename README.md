@@ -1,6 +1,7 @@
-<!--- # Understanding time in text  --->
+# Cognitive Computation Group
 
-![Time](time.jpeg)
+<!--- ![Time](time.jpeg) --->
+![CCG](CCG.png)
 
 Understanding time is an important aspect of natural language processing (NLP), whose essential components are understanding the time expressions mentioned in text ("yesterday", "this June", etc.), temporal relations (before, after, overlapping, etc.) between events, time-lining events, figuring out when things happened and how long things take. Little work has been done from the NLP perspective in this domain, which is increasingly important with the rapid growth in natural language text available and in social media volume. 
 
@@ -8,12 +9,12 @@ Understanding time is an important aspect of natural language processing (NLP), 
 
 <!--- [More...](http://cogcomp.org/page/project_view/51) --->
 
-# Code 
+## Code 
 
 * CogCompTime
 * TemProb-NAACL18
 
-# Publications
+## Publications
 
 #### 2020
 
