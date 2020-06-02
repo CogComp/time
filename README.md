@@ -10,8 +10,8 @@ Understanding time is an important aspect of natural language processing (NLP), 
 
 ## Code 
 
-* CogCompTime
-* TemProb (NAACL 2018)
+* [CogCompTime](http://cogcomp.github.io/CogCompTime)
+* [TemProb (NAACL 2018)](http://cogcomp.github.io/TemProb-NAACL18)
 * [MCTACO](http://cogcomp.github.io/MCTACO)
 * [TacoLM](http://cogcomp.github.io/TacoLM)
 
